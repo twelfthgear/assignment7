@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  height: 100vh;
+
+  display: grid;
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255);
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.red {background-color: red;}
+.orange {background-color: orange;}
+.green {background-color:green;}
+.yellow {background-color: yellow;}
+.blue {background-color:blue;}
+.indigo {background-color:indigo;}
+.violet {background-color: violet;}
+.black {background-color: black;}
+.grey {background-color: grey;}
+.white {background-color: white;}
+.brown {background-color: brown;}
+.teal {background-color: teal;}
+.silver {background-color: silver;}
+.purple {background-color: purple;}
+.navy {background-color: navy;}
+.maroon {background-color: maroon;}
+.charcoal {background-color: rgb(39, 39, 39);}
+.coral {background-color: coral;}
+.aquamarine {background-color: aquamarine;}
+.wheat {background-color: wheat;}
+.lime {background-color: lime;}
+.plum {background-color: plum;}
+.golden {background-color: gold;}
+.magenta {background-color: magenta;}
+.khaki {background-color: khaki;}
+.hotPink {background-color: hotpink;}
+.azure {background-color: azure;}
+.peaGreen {background-color: palegreen;}
+.crimson {background-color:crimson;}
+.olive {background-color: olive;}
+.cyan {background-color: cyan;}
+.aquamarine {background-color: aqua;}
+a:link {
+  color: aliceblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: aliceblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: aliceblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: aliceblue;
+  background-color: transparent;
+  text-decoration: underline;
+}

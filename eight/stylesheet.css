@@ -1,0 +1,38 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+    padding: 1 4px;
+  }
+  
+  /* Create two equal columns that sit next to each other */
+  .column {
+    flex: 50%;
+    padding: 5 4px;
+  }
+  
+  .column img {
+    margin-top: 25px;
+    vertical-align: middle;
+  }
+
+  a:link {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }

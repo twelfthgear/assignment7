@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #663399;
+}
+
+.mainPage {
+    padding: 25px;
+    font-size: 64px;
+    color: aliceblue;
+    
+}
+
+.links{
+    margin-left: 50px;
+    font-size: 32px;
+}
+
+a:link {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
